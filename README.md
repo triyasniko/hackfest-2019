@@ -5,8 +5,8 @@
 
 ## Learning by doing 
 
-- Solo Learn -> (Solo Learn)[https://www.sololearn.com/] 
-- Code Saya -> (Code Saya)[https://codesaya.com/] 
+- Solo Learn -> [Solo Learn](https://www.sololearn.com/)
+- Code Saya -> [Code Saya](https://codesaya.com/) 
 
 ## Video Courses
 
