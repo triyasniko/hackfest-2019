@@ -6,7 +6,8 @@
 ## Learning by doing 
 
 - Solo Learn -> [Solo Learn](https://www.sololearn.com/)
-- Code Saya -> [Code Saya](https://codesaya.com/) 
+- Code Saya -> [Code Saya](https://codesaya.com/)
+- Code School -> [Code School](https://www.pluralsight.com/codeschool) 
 
 ## Video Courses
 
