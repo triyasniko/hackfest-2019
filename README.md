@@ -11,6 +11,7 @@
 ## Video Courses
 
 - Udemy -> [udemy](https://www.udemy.com/) 
+- Lynda -> [Lynda](https://www.lynda.com)
 
 ## Learning with fun 
 
