@@ -8,6 +8,7 @@
 - Solo Learn -> [Solo Learn](https://www.sololearn.com/)
 - Code Saya -> [Code Saya](https://codesaya.com/)
 - Code School -> [Code School](https://www.pluralsight.com/codeschool) 
+- DIcoding -> [Dicoding](dicoding.com)
 
 ## Video Courses
 
